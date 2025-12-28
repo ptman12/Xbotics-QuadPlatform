@@ -368,7 +368,8 @@
 
 **系统分层设计:**
 
-![12-3-xdog_framework](./files/images/第十二节/12-3-xdog_framework.png)
+<img width="1095" height="433" alt="6a52df3b0d6dd01d402a7483fadc494e" src="https://github.com/user-attachments/assets/2ad40e93-6666-4654-bebe-736151716074" />
+
 
 | 层级           | 组件                           | 说明                           |
 | -------------- | ------------------------------ | ------------------------------ |
@@ -492,7 +493,9 @@ IsaacGym训练 → 导出模型(.pt) → Sim2Sim验证 → 真机部署
 
 部署架构
 
-![12-3-sim2real_deploy](./files/images/第十二节/12-3-sim2real_deploy.png)
+<img width="743" height="390" alt="03712fb14039b1472bc59a3db9b6791f" src="https://github.com/user-attachments/assets/bd855493-0bc4-49a3-b129-69430f580a5e" />
+
+
 
 支持平台
 
